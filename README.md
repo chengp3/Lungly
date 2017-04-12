@@ -1,6 +1,6 @@
 # Lung Nodule Detection
 
-This is the code repository for the lung nodule detection and classification project. Will be using the Kaggle dataset along with supplementary LUNA16 data as needed. Developed in co-op with Brendan Berger.
+This is the code repository for the lung nodule detection and classification project. Uses Kaggle dataset with LUNA16 as needed. Developed in co-op with Brendan Berger.
 
 
 
