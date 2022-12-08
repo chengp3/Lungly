@@ -13,3 +13,9 @@ SimpleITK
 numpy
 pandas
 tqdm
+
+
+
+And the following lung CT scan dataset from:
+
+https://paperswithcode.com/dataset/luna16
